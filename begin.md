@@ -1,2 +1,3 @@
 # begginer to this 
-i am learnibg how to use it.
+
+i am learning how to use it.
